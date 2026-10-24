@@ -48,7 +48,7 @@ python --version
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/truptigajghat/Python-Snake-Water-Gun-Game.git
    ```
 
 2. Navigate to the project folder:
